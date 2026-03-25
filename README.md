@@ -9,8 +9,6 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs | AWS
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a656b514-668f-4eac-9e14-dba3be075d34" alt="Banner" />
 </p>
----
-
 <!-- About Me -->
 <h3 align="left">👨‍💻 About Me</h3>
 
