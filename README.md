@@ -33,9 +33,7 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs | AWS
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="mailto:rabindrakumarsahoo024@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
-</a>
+📧 Email: <a href="mailto:rabindrakumarsahoo024@gmail.com">rabindrakumarsahoo024@gmail.com</a>
 
 </p>
 
