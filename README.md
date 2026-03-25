@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a656b514-668f-4eac-9e14-dba3be075d34" alt="Banner" />
-</p>
-
 <!-- Name -->
 <h1 align="center">Hi 👋, I'm Rabindra Kumar Sahoo</h1>
 
@@ -10,7 +5,10 @@
 <h3 align="center">
 Java Backend Developer | Spring Boot | Microservices | REST APIs | AWS
 </h3>
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a656b514-668f-4eac-9e14-dba3be075d34" alt="Banner" />
+</p>
 ---
 
 <!-- About Me -->
