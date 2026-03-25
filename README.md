@@ -1,8 +1,6 @@
 <img width="2048" height="767" alt="Banner" src="https://github.com/user-attachments/assets/a656b514-668f-4eac-9e14-dba3be075d34" /><h1 align="center">Hi 👋, I'm Rabindra</h1>
 <h3 align="center">Java Developer with 3+ years experience in Spring Boot, Microservices, REST APIs, and Cloud (AWS)</h3>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a656b514-668f-4eac-9e14-dba3be075d34" alt="Banner" />
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
